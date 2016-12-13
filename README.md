@@ -1,3 +1,4 @@
+##Assumption is made in R scripts that data already exists in the working directory
 ## Introduction
 
 This assignment uses data from
